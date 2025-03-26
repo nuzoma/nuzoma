@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on frontend and web development projects in general.
 - 🌹 #learninginpublic and documenting via [my articles.](https://dev.to/theuzomavictor)
 - 📫 How to reach me:
-  [LinkedIn](https://www.linkedin.com/in/victor-uzoma-nwankwo/) ||
+  [LinkedIn](https://www.linkedin.com/in/victor-uzoma-nwankwo/) |
   [X(twitter)](https://x.com/theuzomavictor)
 
 
